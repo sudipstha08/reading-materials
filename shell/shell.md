@@ -1,9 +1,10 @@
 ## Shell Commands
 
-- Go home
+- Go home directory
  cd ~
 
 - Make directory
  mkdir ~/.nvm 
 
 - source 
+- pwd
