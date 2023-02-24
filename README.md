@@ -6,6 +6,7 @@
 - https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks
 - <a href="https://www.freecodecamp.org/news/solid-design-principles-in-software-development/">Solid design principles</a>
 - <a href="https://www.freecodecamp.org/news/introduction-to-linux/">Introduction to linux</a>
+- <a href="https://thenewstack.io/what-is-microservices-architecture/">Microservice architecture</a>
 - <a href=""></a>
 
 ## React
