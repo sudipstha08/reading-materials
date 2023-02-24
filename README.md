@@ -5,6 +5,7 @@
 - <a href="https://www.freecodecamp.org/news/object-oriented-programming-javascript/">OOP in Javascript</a>
 - https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks
 - <a href="https://www.freecodecamp.org/news/solid-design-principles-in-software-development/">Solid design principles</a>
+- <a href="https://www.freecodecamp.org/news/introduction-to-linux/">Introduction to linux</a>
 - <a href=""></a>
 
 ## React
