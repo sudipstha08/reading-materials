@@ -7,6 +7,7 @@
 - <a href="https://www.freecodecamp.org/news/solid-design-principles-in-software-development/">Solid design principles</a>
 - <a href="https://www.freecodecamp.org/news/introduction-to-linux/">Introduction to linux</a>
 - <a href="https://thenewstack.io/what-is-microservices-architecture/">Microservice architecture</a>
+- <a href="https://cloudbytes.dev/aws-academy/how-to-install-and-run-wordpress-on-an-ec2-instance"></a>c
 - <a href=""></a>
 
 ## React
