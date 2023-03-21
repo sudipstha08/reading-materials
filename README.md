@@ -8,6 +8,7 @@
 - <a href="https://www.freecodecamp.org/news/introduction-to-linux/">Introduction to linux</a>
 - <a href="https://thenewstack.io/what-is-microservices-architecture/">Microservice architecture</a>
 - <a href="https://cloudbytes.dev/aws-academy/how-to-install-and-run-wordpress-on-an-ec2-instance"></a>
+- <a href="https://blog.devgenius.io/advanced-next-js-concepts-8439a8752597">Advanced Next JS concepts</a>
 - <a href=""></a>
 
 ## React
