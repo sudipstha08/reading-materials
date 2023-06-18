@@ -16,6 +16,7 @@
 - <a href="https://javascript.plainenglish.io/5-react-design-patterns-you-should-know-629030e2e2c7">React design patterns</a>
 - <a href="https://profy.dev/article/react-query-usemutation">React query useMutation</a>
 - <a href="https://tkdodo.eu/blog/mastering-mutations-in-react-query">Mastering mutations in react</a>
+- <a href="https://medium.com/@mishraabhishek.11/react-native-new-architecture-937c76547b29">React native new architecture</a>
 
 ## My articles
 - 
