@@ -9,6 +9,7 @@
 - <a href="https://thenewstack.io/what-is-microservices-architecture/">Microservice architecture</a>
 - <a href="https://cloudbytes.dev/aws-academy/how-to-install-and-run-wordpress-on-an-ec2-instance"></a>
 - <a href="https://blog.devgenius.io/advanced-next-js-concepts-8439a8752597">Advanced Next JS concepts</a>
+- <a href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction">The wrong abastractions</a>
 - <a href=""></a>
 
 ## React
