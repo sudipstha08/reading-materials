@@ -22,4 +22,8 @@
 ## NextJS
 - https://blog.logrocket.com/guide-next-js-layouts-nested-layouts/
 
+## css
+- https://uiverse.io/
+- https://animista.net/play/basic/shadow-inset
+
 
