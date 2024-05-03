@@ -1,6 +1,20 @@
 ## Testing
 Software testing is the process of finding errors in a product, whether it be a mobile or web application. Errors include bugs in the code, missing requirements, glitches, and more. Software testing can also determine whether the outcome when engaging with the application differs from the expectation.
 
+### Test driven development
+- Test-Driven Development (TDD) is a methodology in software development that focuses on an iterative development cycle where the emphasis is placed on writing test cases before the actual feature or function is written. 
+- TDD utilizes repetition of short development cycles. It combines building and testing. This process not only helps ensure correctness of the code -- but also helps to indirectly evolve the design and architecture of the project at hand
+- Benefits
+  TDD encourages writing testable, loosely-coupled code that tends to be more modular. Since well-structured, modular code is easier to write, debug, understand, maintain, and reuse, TDD helps:
+ - Reduce costs
+ - Make refactoring and rewriting easier and faster ("make it work" with red and green stages, then refactor "to make it right")
+ - Streamline project onboarding
+ - Prevent bugs and coupling
+ - Improve overall team collaboration
+ - Increase confidence that the code works as expected
+ - Improve code patterns
+ - Eliminate fear of change
+
 ### Manual testing
 - Manual testing is done in person, by clicking through the application or interacting with the software and APIs with the appropriate tooling. This is very expensive since it requires someone to setup an environment and execute the tests themselves, and it can be prone to human error as the tester might make typos or omit steps in the test script.
 - Human testers execute tests on a software application to identify errors. The tester follows a predetermined set of test cases to ensure the application performs as expected. This is a labor-intensive process and can be slow.
@@ -28,15 +42,16 @@ Unit tests are very low level and close to the source of an application. They co
 ### Integration tests
 Integration tests verify that different modules or services used by your application work well together. For example, it can be testing the interaction with the database or making sure that microservices work together as expected. These types of tests are more expensive to run as they require multiple parts of the application to be up and running.
 
-### Functional tests
-Functional tests focus on the business requirements of an application. They only verify the output of an action and do not check the intermediate states of the system when performing that action.
-
-There is sometimes a confusion between integration tests and functional tests as they both require multiple components to interact with each other. The difference is that an integration test may simply verify that you can query the database while a functional test would expect to get a specific value from the database as defined by the product requirements.
 
 ### End-to-end tests
 End-to-end testing replicates a user behavior with the software in a complete application environment. It verifies that various user flows work as expected and can be as simple as loading a web page or logging in or much more complex scenarios verifying email notifications, online payments, etc...
 
 End-to-end tests are very useful, but they're expensive to perform and can be hard to maintain when they're automated. It is recommended to have a few key end-to-end tests and rely more on lower level types of testing (unit and integration tests) to be able to quickly identify breaking changes.
+
+### Functional tests
+Functional tests focus on the business requirements of an application. They only verify the output of an action and do not check the intermediate states of the system when performing that action.
+
+There is sometimes a confusion between integration tests and functional tests as they both require multiple components to interact with each other. The difference is that an integration test may simply verify that you can query the database while a functional test would expect to get a specific value from the database as defined by the product requirements.
 
 ### Acceptance testing
 Acceptance tests are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. But they can also go further and measure the performance of the system and reject changes if certain goals are not met.
@@ -54,6 +69,18 @@ Smoke tests can be useful right after a new build is made to decide whether or n
 - Selenium
 - Ranorex
 - Testpad
+- Jest
+- Cypress (end to end E2E test)
+- Supertest
+
+## Useful Repos
+- http://github.com/EbookFoundation/free-programming-books
+- http://github.com/sbilly/awesome-security
+- http://github.com/Chalarangelo/30-seconds-of-code
+- http://github.com/AllThingsSmitty/css-protips
+- http://github.com/ryanmcdermott/clean-code-javascript
+- http://github.com/vasanthk/how-web-works
+- http://github.com/jwasham/coding-interview-university
 
 [References]
 - https://www.geeksforgeeks.org/types-software-testing/
