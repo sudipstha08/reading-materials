@@ -4,6 +4,7 @@ Software testing is the process of finding errors in a product, whether it be a 
 ### Test driven development
 - Test-Driven Development (TDD) is a methodology in software development that focuses on an iterative development cycle where the emphasis is placed on writing test cases before the actual feature or function is written. 
 - TDD utilizes repetition of short development cycles. It combines building and testing. This process not only helps ensure correctness of the code -- but also helps to indirectly evolve the design and architecture of the project at hand
+- It is an iterative approach combining programming, unit test creation, and refactoring.
 - Benefits
   TDD encourages writing testable, loosely-coupled code that tends to be more modular. Since well-structured, modular code is easier to write, debug, understand, maintain, and reuse, TDD helps:
  - Reduce costs
