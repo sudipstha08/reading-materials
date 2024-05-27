@@ -10,7 +10,10 @@
 - <a href="https://cloudbytes.dev/aws-academy/how-to-install-and-run-wordpress-on-an-ec2-instance"></a>
 - <a href="https://blog.devgenius.io/advanced-next-js-concepts-8439a8752597">Advanced Next JS concepts</a>
 - <a href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction">The wrong abastractions</a>
-- <a href=""></a>
+- <a href="https://github.com/EbookFoundation/free-programming-books">Books</a>
+
+
+
 
 ## React
 - <a href="https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3">React tips to improve your code</a>
@@ -28,5 +31,10 @@
 - https://uiverse.io/
 - https://animista.net/play/basic/shadow-inset
 - https://dev.to/devshefali/the-top-6-css-cheatsheets-that-will-save-you-hours-2lp1?context=digest
+- https://github.com/tigerabrodi/css-for-js-devs-notes
 
 
+https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file#c-individuals
+https://github.com/addyosmani/essential-js-design-patterns
+https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
+https://github.com/milanm/DevOps-Roadmap
