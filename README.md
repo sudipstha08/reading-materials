@@ -12,9 +12,6 @@
 - <a href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction">The wrong abastractions</a>
 - <a href="https://github.com/EbookFoundation/free-programming-books">Books</a>
 
-
-
-
 ## React
 - <a href="https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3">React tips to improve your code</a>
 - <a href="https://javascript.plainenglish.io/5-react-design-patterns-you-should-know-629030e2e2c7">React design patterns</a>
@@ -33,8 +30,10 @@
 - https://dev.to/devshefali/the-top-6-css-cheatsheets-that-will-save-you-hours-2lp1?context=digest
 - https://github.com/tigerabrodi/css-for-js-devs-notes
 
-
-https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file#c-individuals
-https://github.com/addyosmani/essential-js-design-patterns
-https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
-https://github.com/milanm/DevOps-Roadmap
+## Userful Github Repos
+- https://github.com/codecrafters-io/build-your-own-x
+- https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file#c-individuals
+- https://github.com/addyosmani/essential-js-design-patterns
+- https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
+- https://github.com/milanm/DevOps-Roadmap
+- https://github.com/DopplerHQ/awesome-interview-questions
