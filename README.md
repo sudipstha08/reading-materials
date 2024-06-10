@@ -18,22 +18,37 @@
 - <a href="https://profy.dev/article/react-query-usemutation">React query useMutation</a>
 - <a href="https://tkdodo.eu/blog/mastering-mutations-in-react-query">Mastering mutations in react</a>
 - <a href="https://medium.com/@mishraabhishek.11/react-native-new-architecture-937c76547b29">React native new architecture</a>
+- https://medium.com/@frontendinterviewquestions/html-css-javascript-interview-questions-0ab514c2b07f
 
 ## NextJS
 - https://blog.logrocket.com/guide-next-js-layouts-nested-layouts/
 
 ## NodeJS
+- https://zdev.to/ezekiel_77/rest-api-design-rules-2c4j?ref=dailydev
+- 
 
 ## css
 - https://uiverse.io/
 - https://animista.net/play/basic/shadow-inset
 - https://dev.to/devshefali/the-top-6-css-cheatsheets-that-will-save-you-hours-2lp1?context=digest
 - https://github.com/tigerabrodi/css-for-js-devs-notes
+- https://github.com/AllThingsSmitty/css-protips
 
-## Userful Github Repos
+## Useful Github Repos
 - https://github.com/codecrafters-io/build-your-own-x
 - https://github.com/kilimchoi/engineering-blogs?tab=readme-ov-file#c-individuals
 - https://github.com/addyosmani/essential-js-design-patterns
 - https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
 - https://github.com/milanm/DevOps-Roadmap
 - https://github.com/DopplerHQ/awesome-interview-questions
+
+## Challenges
+- https://www.codechef.com/
+- https://www.hackerrank.com/
+
+## Open Source
+- https://www.redhat.com/en
+  
+## Videos
+- https://www.youtube.com/watch?v=cTyZ_hbmbDw
+
