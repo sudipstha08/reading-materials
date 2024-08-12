@@ -22,6 +22,7 @@
 
 ## NextJS
 - https://blog.logrocket.com/guide-next-js-layouts-nested-layouts/
+- https://medium.com/@sassenthusiast/next-js-seo-best-practices-for-higher-rankings-f315c5c2db32
 
 ## NodeJS
 - https://zdev.to/ezekiel_77/rest-api-design-rules-2c4j?ref=dailydev
