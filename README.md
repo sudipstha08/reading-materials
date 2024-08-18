@@ -19,6 +19,7 @@
 - <a href="https://tkdodo.eu/blog/mastering-mutations-in-react-query">Mastering mutations in react</a>
 - <a href="https://medium.com/@mishraabhishek.11/react-native-new-architecture-937c76547b29">React native new architecture</a>
 - https://medium.com/@frontendinterviewquestions/html-css-javascript-interview-questions-0ab514c2b07f
+- https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253
 
 ## NextJS
 - https://blog.logrocket.com/guide-next-js-layouts-nested-layouts/
