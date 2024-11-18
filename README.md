@@ -11,6 +11,7 @@
 - <a href="https://blog.devgenius.io/advanced-next-js-concepts-8439a8752597">Advanced Next JS concepts</a>
 - <a href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction">The wrong abastractions</a>
 - <a href="https://github.com/EbookFoundation/free-programming-books">Books</a>
+- https://medium.com/@vrkunduri/cheatsheets-for-developers-1bf378aafcb0
 
 ## React
 - <a href="https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3">React tips to improve your code</a>
