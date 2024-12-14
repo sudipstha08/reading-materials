@@ -12,6 +12,7 @@
 - <a href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction">The wrong abastractions</a>
 - <a href="https://github.com/EbookFoundation/free-programming-books">Books</a>
 - https://medium.com/@vrkunduri/cheatsheets-for-developers-1bf378aafcb0
+- https://refactoring.guru/design-patterns
 
 ## React
 - <a href="https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3">React tips to improve your code</a>
@@ -54,4 +55,17 @@
   
 ## Videos
 - https://www.youtube.com/watch?v=cTyZ_hbmbDw
+
+## Typescript
+- https://www.totaltypescript.com/articles
+
+## Platforms
+- https://frontendmasters.com/
+- https://developer.mozilla.org/en-US/curriculum/
+- https://www.frontendmentor.io/home
+- https://www.frontendpractice.com/
+- https://roadmap.sh/frontend/projects
+- https://www.patterns.dev/
+- https://www.advanced-react.com/
+- https://javascript.info/
 
